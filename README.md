@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/0a9108cfcbe39b4394f02381a7832bed5d7a33b334e0d6d336e638fbdcf19069/68747470733a2f2f6d79776562323030322e77337370616365732e636f6d2f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Samriddha Sil</h1>
 <h3 align="center">A Passionate Student of Computer Science and Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
