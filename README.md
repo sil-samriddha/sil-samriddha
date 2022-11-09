@@ -10,7 +10,7 @@
 - ⚡ Interested in **solving real worl problems**
 - ☁️ Eager to learn **Cloud Computing**
 - 📫 How to reach me **samriddha.sil297@gmail.com**
-- 📄 Know about <a href="https://linkedin.com/in/samriddha-sil" target="blank">my experiences</a>
+- 📄 Know about <a href="https://www.linkedin.com/in/samriddha-sil-8bb4aa221" target="blank">my experiences</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
