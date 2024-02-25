@@ -8,7 +8,7 @@
 
 - 🌱 Keen on **learning new skills**
 - 💻 I’m currently learning **Full Stack Web Development**
-- ⚡ Interested in **solving real worl problems**
+- ⚡ Interested in **solving real world problems**
 - ☁️ Eager to learn **Cloud Computing**
 - 📫 Reach me at **samriddha.sil297@gmail.com**
 - 📄 Know about <a href="https://www.linkedin.com/in/samriddha-sil-8bb4aa221" target="blank">my experiences</a>
